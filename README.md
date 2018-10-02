@@ -1,0 +1,2 @@
+# adapterPattern
+adapter pattern
